@@ -1,0 +1,12 @@
+<!-- Footer -->
+<footer id="main-footer" class="py-4 bg-primary text-white text-center">
+    Copyright &copy;
+    <span class="year"></span> Eero Real Estate
+</footer>
+  <script src="assets/js/jquery-3.3.1.min.js "></script>
+  <script src="assets/js/bootstrap.bundle.min.js "></script>
+  <script src="assets/js/main.js "></script>
+  <script src="assets/js/lightbox.min.js"></script>
+  <script src="assets/js/main.js "></script>
+</body>
+</html>
